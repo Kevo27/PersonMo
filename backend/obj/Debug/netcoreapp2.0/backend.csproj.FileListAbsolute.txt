@@ -1,0 +1,11 @@
+C:\work\GitRep\Demo\backend\bin\Debug\netcoreapp2.0\backend.deps.json
+C:\work\GitRep\Demo\backend\bin\Debug\netcoreapp2.0\backend.runtimeconfig.json
+C:\work\GitRep\Demo\backend\bin\Debug\netcoreapp2.0\backend.runtimeconfig.dev.json
+C:\work\GitRep\Demo\backend\bin\Debug\netcoreapp2.0\backend.dll
+C:\work\GitRep\Demo\backend\bin\Debug\netcoreapp2.0\backend.pdb
+C:\work\GitRep\Demo\backend\obj\Debug\netcoreapp2.0\backend.csproj.CoreCompileInputs.cache
+C:\work\GitRep\Demo\backend\obj\Debug\netcoreapp2.0\backend.AssemblyInfoInputs.cache
+C:\work\GitRep\Demo\backend\obj\Debug\netcoreapp2.0\backend.AssemblyInfo.cs
+C:\work\GitRep\Demo\backend\obj\Debug\netcoreapp2.0\backend.dll
+C:\work\GitRep\Demo\backend\obj\Debug\netcoreapp2.0\backend.pdb
+C:\work\GitRep\Demo\backend\obj\Debug\netcoreapp2.0\backend.csprojResolveAssemblyReference.cache
